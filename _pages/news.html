@@ -14,6 +14,7 @@ permalink: /news.html
             <h4 id="{{ article.date }}">{{ article.date }}</h4>
             <h4 class="mt-0 mb-1">{{ article.title }}</h4>
             {{ article.content }}
+            <a href={{article.link.url}}>{{article.link.title}}</a>
             </div>
         </li>
     {% endfor %}

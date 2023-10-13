@@ -8,7 +8,7 @@ permalink: 'people/gustavhedemark'
 social:
     email: gshe@chem.ku.dk
 education:
- - Something
+ - MSc Nanoscience, University of Copenhagen, Denmark
 ---
 
 Something
