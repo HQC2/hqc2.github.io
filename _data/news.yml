@@ -4,13 +4,6 @@
   link: 
    title: Link
    url: https://chem.ku.dk/staff/alle/?pure=en%2Factivities%2Fhybrid-quantum-chemistry-on-hybrid-quantum-computers--hqc2-a-status-report-after-8-months(10c193f4-c7c0-49c6-8219-76408d8fb5ed).html
-- date: 5/10/23
-  title: The Novo Nordisk Foundation invests DKK 40 million in quantum research - Will launch Scandinavia's first quantum hub at the University of Copenhagen
-  content: DKK 40 million from the overflowing money tank at the Novo Nordisk Foundation is earmarked for quantum research and a new hub at the University of Copenhagen, 
-           which will be the first of its kind in Scandinavia.
-  link: 
-    title: Link
-    url: https://www.computerworld.dk/art/262151/novo-nordisk-fonden-skyder-40-millioner-kroner-i-kvanteforskning-vil-soesaette-skandinaviens-foerste-kvantehub-paa-koebenhavns-universitet
 - date: 10/05/23
   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 4 months
   content: Quantum Computing Applications in Chemical and Biochemical Engineering Workshop - Professor Stephan P. A. Sauer, 
@@ -18,3 +11,17 @@
   link:
     title: Link
     url: https://chem.ku.dk/staff/alle/?pure=en%2Factivities%2Fhybrid-quantum-chemistry-on-hybrid-quantum-computers--hqc2-a-status-report-after-4-months(89d81565-80a6-44e2-93be-374b1ac9f823).html
+- date: 7/10/22
+  title: ComputerWorld writes about our NNF grant
+  content: DKK 40 million from the overflowing money tank at the Novo Nordisk Foundation is earmarked for quantum research and a new hub at the University of Copenhagen, 
+           which will be the first of its kind in Scandinavia.
+  link: 
+    title: Link
+    url: https://www.computerworld.dk/art/262151/novo-nordisk-fonden-skyder-40-millioner-kroner-i-kvanteforskning-vil-soesaette-skandinaviens-foerste-kvantehub-paa-koebenhavns-universitet
+- date: 7/10/22
+  title: Novo Nordisk Foundation announces grant for the Hybrid Quantum Chemistry on Hybrid Quantum Computers project
+  content: New research project will develop tools to enable quantum computers to calculate molecular properties
+  link: 
+    title: Link
+    url: https://novonordiskfonden.dk/en/news/new-research-project-will-develop-tools-to-enable-quantum-computers-to-calculate-molecular-properties/
+    
