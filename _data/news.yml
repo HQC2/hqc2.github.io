@@ -1,15 +1,39 @@
-- date: 28/10/23
+- date: 14/11/23
+  title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers: The Danish IBM Quantum Innovation Center
+  content: Professor Stephan P. A. Sauer at the 3rd Nordic Quantum Life Science Roundtable, Helsinki, Finland.
+  link: 
+   title: Link
+   url: https://algorithmiq.fi/nordic-quantum-life-science-roundtable
+- date: 8/11/23
+  title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers: The Danish IBM Quantum Innovation Center
+  content: Professor Stephan P. A. Sauer at DeiC Konference 2023, Kolding, Denmark.
+  link: 
+   title: Link
+   url: https://event.deic.dk/website/default.vbhtml?t=Om-Event&UserID=&PageUniqueID=8fc0ad95-3246-45ad-bc49-192784252b8a&PageType=1&ConfId=15a55f01-1d2f-46c6-a4a1-ebe8b49b1f5f&Lang=47
+- date: 16/10/23
+  title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers: The Danish IBM Quantum Innovation Center
+  content: Professor Stephan P. A. Sauer at the Quantum Industry Day in Switzerland 2023, Lausanne, Switzerland.
+  link: 
+   title: Link
+   url: https://qidis23.b2match.io/
+- date: 28/9/23
   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 8 months
   content: Professor Stephan P. A. Sauer at the NQCP Life in Quantum Seminar, Niels Bohr Institut, University of Copenhagen, Denmark.
   link: 
    title: Link
    url: https://nqcp.ku.dk/meet-us.html
+- date: 6/9/23
+  title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 8 months
+  content: Professor Stephan P. A. Sauer at the Invent What’s Next with IBM Research – Africa conference, University of Witwatersrand, Johannesburg, South Africa.
+  link: 
+   title: Link
+   url: https://research.ibm.com/events/inventing-whats-next-africa-2023
 - date: 10/05/23
   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 4 months
   content: Professor Stephan P. A. Sauer at the Quantum Computing Applications in Chemical and Biochemical Engineering Workshop, Technical University of Denmark, Lyngby, Denmark.
   link:
     title: Link
-    url: https://www.aiche.org/sbe/conferences/quantum-computing-applications-chemical-and-biochemical-engineering-workshop/2023.html
+    url: https://www.aiche.org/sbe/conferences/quantum-computing-applications-chemical-and-biochemical-engineering-workshop/2023
 - date: 7/10/22
   title: ComputerWorld writes about our NNF grant
   content: DKK 40 million from the overflowing money tank at the Novo Nordisk Foundation is earmarked for quantum research and a new hub at the University of Copenhagen, 
