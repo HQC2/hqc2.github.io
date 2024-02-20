@@ -7,6 +7,9 @@ permalink: /publications
 ---
 
 ### Publications
+4. P. Reinholdt, E. R. Kjellgren, J. H. Fuglsbjerg, K. M. Ziems, S. Coriani, S. P. A. Sauer, J. Kongsted:
+<a href="https://doi.org/10.48550/arXiv.2402.12186">Subspace methods for the simulation of molecular response properties on a quantum computer</a>,
+arXiv.2402.12186
 
 3. K. M. Ziems, E. R. Kjellgren, P. Reinholdt, P. W. K. Jensen, S. P. A. Sauer, J. Kongsted, S. Coriani:
 <a href="https://doi.org/10.48550/arXiv.2312.13937">Which options exist for NISQ-friendly linear response formulations?</a>,
