@@ -3,12 +3,12 @@ layout: member
 category: bachelor
 title: Gustav Stausbøll Hedemark
 image: gustavhedemark.jpeg
-role: Bachelor Student
+role: Former team members
 permalink: 'people/gustavhedemark'
 social:
     email: gshe@chem.ku.dk
 education:
- - MSc Nanoscience, University of Copenhagen, Denmark
+ - BSc Nanoscience, University of Copenhagen, Denmark
 ---
 
 Something
