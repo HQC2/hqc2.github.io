@@ -1,6 +1,6 @@
 ---
 layout: member
-category: former team member
+category: alumni
 title: Gustav Stausbøll Hedemark
 image: gustavhedemark.jpeg
 role: Former Bachelor Student
