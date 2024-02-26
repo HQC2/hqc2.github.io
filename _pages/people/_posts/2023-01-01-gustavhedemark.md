@@ -1,9 +1,9 @@
 ---
 layout: member
-category: bachelor
+category: former team member
 title: Gustav Stausbøll Hedemark
 image: gustavhedemark.jpeg
-role: Former team members
+role: Former Bachelor Student
 permalink: 'people/gustavhedemark'
 social:
     email: gshe@chem.ku.dk
