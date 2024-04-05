@@ -1,3 +1,9 @@
+- date: 27/03/24
+  title: Our first quantum computing paper is published
+  content:  E. R. Kjellgren, P. Reinholdt, A. Fitzpatrick, W. N. Talarico, P. W. K. Jensen, S. P. A. Sauer, S. Coriani, S. Knecht, J. Kongsted: The variational quantum eigensolver self-consistent field method within a polarizable embedded framework, J. Chem. Phys. 160, 124114 (2024)
+  link: 
+   title: Link
+   url: https://doi.org/10.1063/5.0190594
 - date: 14/11/23
   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers - The Danish IBM Quantum Innovation Center
   content: Professor Stephan P. A. Sauer at the 3rd Nordic Quantum Life Science Roundtable, Helsinki, Finland.
