@@ -1,42 +1,60 @@
-- date: 27/03/24
+- date: 27/3/24
   title: Our first quantum computing paper is published
   content: The variational quantum eigensolver self-consistent field method within a polarizable embedded framework, J. Chem. Phys. 160, 124114 (2024)
   link: 
    title: Link
    url: https://doi.org/10.1063/5.0190594
+- date: 15/3/24
+  title: Calculation of molecular spectroscopic properties on quantum computers
+  content: Phillip W. K. Jensen' Talk at the 2nd Annual Meeting of the UCPH Quantum Hub, Copenhagen, Denmark.
+  link: 
+   title: Link
+   url: https://www.math.ku.dk/english/calendar/events/quantum-hub-annual-meeting
+- date: 6/3/24
+  title: Quantum Equation of Motion in Active Spaces for Computing Molecular Excitation Energies in Near-Term Quantum Computing
+  content: Phillip W. K. Jensen' Talk at the APS March Meeting, Minneapolis, USA.
+  link: 
+   title: Link
+   url: https://march.aps.org/sessions/N49/2
+- date: 5/3/24
+  title: Quantum Equation of Motion in Active Spaces for Computing Molecular Excitation Energies in Near-Term Quantum Computing
+  content: Phillip W. K. Jensen' Poster at the APS March Meeting, Minneapolis, USA.
+  link: 
+   title: Link
+   url: https://march.aps.org/sessions/J00/282
 - date: 14/11/23
   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers - The Danish IBM Quantum Innovation Center
-  content: Professor Stephan P. A. Sauer at the 3rd Nordic Quantum Life Science Roundtable, Helsinki, Finland.
+  content: Professor Stephan P. A. Sauer' Talk at the 3rd Nordic Quantum Life Science Roundtable, Helsinki, Finland.
   link: 
    title: Link
    url: https://algorithmiq.fi/nordic-quantum-life-science-roundtable/
 - date: 8/11/23
   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers - The Danish IBM Quantum Innovation Center
-  content: Professor Stephan P. A. Sauer at DeiC Konference 2023, Kolding, Denmark.
+  content: Professor Stephan P. A. Sauer' Talk at DeiC Konference 2023, Kolding, Denmark.
   link: 
    title: Link
    url: https://event.deic.dk/website/default.vbhtml?t=Om-Event&UserID=&PageUniqueID=8fc0ad95-3246-45ad-bc49-192784252b8a&PageType=1&ConfId=15a55f01-1d2f-46c6-a4a1-ebe8b49b1f5f&Lang=47/
 - date: 16/10/23
   title: Hybrid Quantum Chemistry on Hybrid NISQ Quantum Computers - The Danish IBM Quantum Innovation Center
-  content: Professor Stephan P. A. Sauer at the Quantum Industry Day in Switzerland 2023, Lausanne, Switzerland.
+  content: Professor Stephan P. A. Sauer' Talk at the Quantum Industry Day in Switzerland 2023, Lausanne, Switzerland.
   link: 
    title: Link
    url: https://qidis23.b2match.io/
 - date: 28/9/23
   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 8 months
-  content: Professor Stephan P. A. Sauer at the NQCP Life in Quantum Seminar, Niels Bohr Institut, University of Copenhagen, Denmark.
+  content: Professor Stephan P. A. Sauer' Talk at the NQCP Life in Quantum Seminar, Niels Bohr Institut, University of Copenhagen, Denmark.
   link: 
    title: Link
    url: https://nqcp.ku.dk/meet-us.html
 - date: 6/9/23
   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 8 months
-  content: Professor Stephan P. A. Sauer at the Invent What’s Next with IBM Research – Africa conference, University of Witwatersrand, Johannesburg, South Africa.
+  content: Professor Stephan P. A. Sauer' Talk at the Invent What’s Next with IBM Research – Africa conference, University of Witwatersrand, Johannesburg, South Africa.
   link: 
    title: Link
    url: https://research.ibm.com/events/inventing-whats-next-africa-2023/
 - date: 10/05/23
   title: Hybrid Quantum Chemistry on Hybrid Quantum Computers - (HQC)2 - A status report after 4 months
-  content: Professor Stephan P. A. Sauer at the Quantum Computing Applications in Chemical and Biochemical Engineering Workshop, Technical University of Denmark, Lyngby, Denmark.
+  content: Professor Stephan P. A. Sauer' Talk at the Quantum Computing Applications in Chemical and Biochemical Engineering Workshop, Technical University of Denmark, Lyngby, Denmark.
   link:
     title: Link
     url: https://www.aiche.org/sbe/conferences/quantum-computing-applications-chemical-and-biochemical-engineering-workshop/2023
