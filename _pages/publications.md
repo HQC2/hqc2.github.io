@@ -8,6 +8,10 @@ permalink: /publications
 
 ### Publications
 
+5. D. Nagy, P. Reinholdt, P. W. K. Jensen, E. R. Kjellgren, K. M. Ziems, A. Fitzpatrick, S. Knecht, J. Kongsted, S. Coriani, S. P. A. Sauer:
+<a href="https://arxiv.org/abs/2404.14531">Electric Field Gradient Calculations for Ice VIII and IX using Polarizable Embedding: A Comparative Study on Classical Computers and Quantum Simulators</a>,
+arXiv:2404.14531 (uploaded)
+
 4.  P. Reinholdt, E. R. Kjellgren, J. H. Fuglsbjerg, K. M. Ziems, S. Coriani, S. P. A. Sauer, J. Kongsted:
 <a href="https://doi.org/10.48550/arXiv.2402.12186" rel="nofollow noopener" target="_blank">Subspace methods for the simulation of molecular response properties on a quantum computer</a>,
 J. Chem. Theory Comput. (accepted)
