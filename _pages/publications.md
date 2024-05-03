@@ -18,8 +18,8 @@ arXiv:2404.14531 (uploaded)</li>
 <a href="https://doi.org/10.1021/acs.jctc.4c00211" rel="nofollow noopener" target="_blank">Subspace methods for the simulation of molecular response properties on a quantum computer</a>,
 J. Chem. Theory Comput. (online)</li>
   <li>P. W. K. Jensen, E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. Coriani, J. Kongsted, S. P. A. Sauer:
-<a href="https://doi.org/10.48550/arXiv.2312.12386" rel="nofollow noopener" target="_blank">Quantum Equation of Motion with Orbital Optimization for Computing Molecular Properties in Near-Term Quantum Computing</a>,
-J. Chem. Theory Comput. (accepted)</li>
+<a href="https://doi.org/10.1021/acs.jctc.4c00069" rel="nofollow noopener" target="_blank">Quantum Equation of Motion with Orbital Optimization for Computing Molecular Properties in Near-Term Quantum Computing</a>,
+J. Chem. Theory Comput. (online)</li>
   <li>K. M. Ziems, E. R. Kjellgren, P. Reinholdt, P. W. K. Jensen, S. P. A. Sauer, J. Kongsted, S. Coriani:
 <a href="https://doi.org/10.1021/acs.jctc.3c01402" rel="nofollow noopener" target="_blank">Which options exist for NISQ-friendly linear response formulations?</a>,
 J. Chem. Theory Comput. (online)</li>
