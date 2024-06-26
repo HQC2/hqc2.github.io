@@ -8,6 +8,9 @@ permalink: /publications
 
 ### Publications
 <ul>
+  <li>E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. P. A. Sauer, S. Coriani, J. Kongsted:
+<a href="https://arxiv.org/abs/2406.17141" rel="nofollow noopener" target="_blank">Divergences in classical and quantum linear response and equation of motion formulations</a>,
+arXiv:2406.17141 (uploaded)</li>
   <li>T. Juncker von Buchwald, E. R. Kjellgren, K. M. Ziems, S. P. A. Sauer, J. Kongsted, S. Coriani:
 <a href="https://arxiv.org/abs/2404.16586" rel="nofollow noopener" target="_blank">Reduced density matrix formulation of quantum linear response</a>,
 arXiv:2404.16586 (uploaded)</li>
