@@ -16,7 +16,7 @@ arXiv:2406.17141 (uploaded)</li>
 arXiv:2404.16586 (uploaded)</li>
   <li>D. Nagy, P. Reinholdt, P. W. K. Jensen, E. R. Kjellgren, K. M. Ziems, A. Fitzpatrick, S. Knecht, J. Kongsted, S. Coriani, S. P. A. Sauer:
 <a href="https://arxiv.org/abs/2404.14531" rel="nofollow noopener" target="_blank">Electric Field Gradient Calculations for Ice VIII and IX using Polarizable Embedding: A Comparative Study on Classical Computers and Quantum Simulators</a>,
-arXiv:2404.14531 (uploaded)</li>
+J. Chem. Phys. A (accepted)</li>
   <li>P. Reinholdt, E. R. Kjellgren, J. H. Fuglsbjerg, K. M. Ziems, S. Coriani, S. P. A. Sauer, J. Kongsted:
 <a href="https://doi.org/10.1021/acs.jctc.4c00211" rel="nofollow noopener" target="_blank">Subspace methods for the simulation of molecular response properties on a quantum computer</a>,
 J. Chem. Theory Comput. <b>20</b>, 3729-3740 (2024)</li>
