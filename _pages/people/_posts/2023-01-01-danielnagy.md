@@ -1,9 +1,9 @@
 ---
 layout: member
-category: master
+category: alumni
 title: Daniel Nagy
 image: danielnagy.jpg
-role: Master Student
+role: Former Master Student
 permalink: 'people/danielnagy'
 social:
     email: zsn995@alumni.ku.dk
