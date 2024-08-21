@@ -1,3 +1,9 @@
+- date: 17/8/24
+  title: The next quantum computing paper is uploaded to arXiv
+  content: K. M. Ziems et al., Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers, arXiv:2408.09308
+  link: 
+   title: Link
+   url: https://arxiv.org/abs/2408.09308
 - date: 16/8/24
   title: A PhD position in "Error Mitigation Strategies for Quantum Chemistry on NISQ quantum computers" is open in the group of prof. Jacob Kongsted at SDU in Odense, Denmark.
   content: 
@@ -12,7 +18,7 @@
    url: https://doi.org/10.1021/acs.jpca.4c02697
 - date: 24/6/24
   title: The next quantum computing paper is uploaded to arXiv
-  content: E. R. Kjellgren et al, Divergences in classical and quantum linear response and equation of motion formulations, arXiv:2406.17141
+  content: E. R. Kjellgren et al., Divergences in classical and quantum linear response and equation of motion formulations, arXiv:2406.17141
   link: 
    title: Link
    url: https://arxiv.org/abs/2406.17141
