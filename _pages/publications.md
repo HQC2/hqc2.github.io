@@ -16,7 +16,7 @@ permalink: /publications
 arXiv:2406.17141 (uploaded)</li>
   <li>T. Juncker von Buchwald, E. R. Kjellgren, K. M. Ziems, S. P. A. Sauer, J. Kongsted, S. Coriani:
 <a href="https://doi.org/10.1021/acs.jctc.4c00574" rel="nofollow noopener" target="_blank">Reduced density matrix formulation of quantum linear response</a>,
-J. Chem. Theory Comput. (online)</li>
+J. Chem. Theory Comput. <b>20</b>, 7093-7101 (2024)</li>
   <li>D. Nagy, P. Reinholdt, P. W. K. Jensen, E. R. Kjellgren, K. M. Ziems, A. Fitzpatrick, S. Knecht, J. Kongsted, S. Coriani, S. P. A. Sauer:
 <a href="https://doi.org/10.1021/acs.jpca.4c02697" rel="nofollow noopener" target="_blank">Electric Field Gradient Calculations for Ice VIII and IX using Polarizable Embedding: A Comparative Study on Classical Computers and Quantum Simulators</a>,
 J. Chem. Phys. A <b>128</b>, 6305-6315 (2024)</li>
