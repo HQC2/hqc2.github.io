@@ -13,7 +13,7 @@ permalink: /publications
     arXiv:2408.09308 (uploaded)</li>
   <li>E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. P. A. Sauer, S. Coriani, J. Kongsted:
 <a href="https://arxiv.org/abs/2406.17141" rel="nofollow noopener" target="_blank">Divergences in classical and quantum linear response and equation of motion formulations</a>,
-J. Chem. Phys. <b>161</b>b>, 124112 (2024)</li>
+J. Chem. Phys. <b>161</b>, 124112 (2024)</li>
   <li>T. Juncker von Buchwald, E. R. Kjellgren, K. M. Ziems, S. P. A. Sauer, J. Kongsted, S. Coriani:
 <a href="https://doi.org/10.1021/acs.jctc.4c00574" rel="nofollow noopener" target="_blank">Reduced density matrix formulation of quantum linear response</a>,
 J. Chem. Theory Comput. <b>20</b>, 7093-7101 (2024)</li>
