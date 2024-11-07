@@ -8,6 +8,9 @@ permalink: /publications
 
 ### Publications
 <ul>
+  <li>P. Reinholdt, E. R. Kjellgren, K. M. Ziems, S. Coriani, S. P. A. Sauer, J. Kongsted:
+    <a href="https://arxiv.org/abs/2411.03852" rel="nofollow noopener" target="_blank">Self-consistent Quantum Linear Response with a Polarizable Embedding environment</a>,
+    arXiv:2411.03852 (uploaded)</li>
   <li>K. M. Ziems, E. R. Kjellgren, S. P. A. Sauer, J. Kongsted, S. Coriani:
     <a href="https://arxiv.org/abs/2408.09308" rel="nofollow noopener" target="_blank">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a>,
     arXiv:2408.09308 (uploaded)</li>
