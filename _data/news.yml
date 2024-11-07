@@ -1,3 +1,9 @@
+- date: 07/11/24
+  title: The next quantum computing paper is uploaded to arXiv!
+  content: Reinholdt et al., Self-consistent Quantum Linear Response with a Polarizable Embedding environment, arXiv:2411.03852
+  link:
+    title: Link
+    url: https://arxiv.org/abs/2411.03852
 - date: 26/9/24
   title: Our seventh quantum computing paper is now published in J. Chem. Phys
   content: Kjellgren et al., Divergences in classical and quantum linear response and equation of motion formulations,  J. Chem. Phys. <b>161</b>, 124112 (2024)
