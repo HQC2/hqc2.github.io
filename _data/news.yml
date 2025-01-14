@@ -1,3 +1,17 @@
+- date: 14/01/25
+  title: Our eighth and ninth quantum computing paper is now published in Chem. Sci and J. Phys. Chem. A respectively. And one more paper has been uploaded to arXiv. 
+  content: K. M. Ziems et al., Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers, Chem. Sci.
+  link:
+    title: Link
+    url: https://pubs.rsc.org/en/Content/ArticleLanding/2025/SC/D4SC05839A
+  content: P. Reinholdt et al., Self-consistent Quantum Linear Response with a Polarizable Embedding environment, J. Phys. Chem. A.
+  link:
+    title: Link
+    url: https://doi.org/10.1021/acs.jpca.4c07534
+  content: P. Reinholdt et al., Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods, arXiv:2501.07231
+  link:
+    title: Link
+    url: https://doi.org/10.48550/arXiv.2501.07231
 - date: 07/11/24
   title: The next quantum computing paper is uploaded to arXiv!
   content: Reinholdt et al., Self-consistent Quantum Linear Response with a Polarizable Embedding environment, arXiv:2411.03852
