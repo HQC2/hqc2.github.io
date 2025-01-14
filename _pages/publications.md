@@ -12,11 +12,11 @@ permalink: /publications
     <a href="https://arxiv.org/abs/2501.07231" rel="nofollow noopener" target="_blank">Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods </a>,
     arXiv:2501.07231 (uploaded) </li>
   <li>P. Reinholdt, E. R. Kjellgren, K. M. Ziems, S. Coriani, S. P. A. Sauer, J. Kongsted:
-    <a href="https://arxiv.org/abs/2411.03852" rel="nofollow noopener" target="_blank">Self-consistent Quantum Linear Response with a Polarizable Embedding environment</a>,
-    arXiv:2411.03852 (uploaded)</li>
+    <a href="https://doi.org/10.1021/acs.jpca.4c07534" rel="nofollow noopener" target="_blank">Self-consistent Quantum Linear Response with a Polarizable Embedding environment</a>,
+    J. Phys. Chem. A (2025)</li>
   <li>K. M. Ziems, E. R. Kjellgren, S. P. A. Sauer, J. Kongsted, S. Coriani:
-    <a href="https://arxiv.org/abs/2408.09308" rel="nofollow noopener" target="_blank">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a>,
-    arXiv:2408.09308 (uploaded)</li>
+    <a href="https://doi.org/10.1039/D4SC05839A" rel="nofollow noopener" target="_blank">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a>,
+    Chem. Sci. (2025)</li>
   <li>E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. P. A. Sauer, S. Coriani, J. Kongsted:
 <a href="https://doi.org/10.1063/5.0225409" rel="nofollow noopener" target="_blank">Divergences in classical and quantum linear response and equation of motion formulations</a>,
 J. Chem. Phys. <b>161</b>, 124112 (2024)</li>
