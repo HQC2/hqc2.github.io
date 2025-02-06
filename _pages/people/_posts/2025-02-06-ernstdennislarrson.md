@@ -1,10 +1,10 @@
 ---
 layout: member
 category: postdoc
-title: Ernst Larrson
+title: Ernst Dennis Larrson
 image: 
 role: Postdoctoral Researcher
-permalink: 'people/ernstlarrson'
+permalink: 'people/ernstdennislarrson'
 social:
     email: 
     linkedin: 
