@@ -3,7 +3,7 @@ layout: member
 category: postdoc
 title: Karl Michael Ziems
 image: karlmichaelziems.jpg
-role: Postdoctoral Researcher
+role: Lecturer University of Southampton
 permalink: 'people/karlmichaelziems'
 social:
     email: kmizi@kemi.dtu.dk 
@@ -14,4 +14,4 @@ education:
  - something
 ---
 
-Lecturer University of Southampton
+Something
