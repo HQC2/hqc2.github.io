@@ -6,7 +6,7 @@ image:
 role: Master Student
 permalink: 'people/adriablanchgarrido'
 social:
-    email: 
+    email: qjn980@alumni.ku.dk
     linkedin: 
     
 education:
