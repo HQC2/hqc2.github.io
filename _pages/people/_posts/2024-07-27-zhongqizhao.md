@@ -3,7 +3,7 @@ layout: member
 category: master
 title: Zhongqi Zhao
 role: Master Student
-image: zhongqizhao.png
+image: zhongqizhao.jpg
 permalink: 'people/zhongqizhao'
 social:
     email: hrz811@alumni.ku.dk
