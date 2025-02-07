@@ -6,7 +6,7 @@ image:
 role: Master Student
 permalink: 'people/jeppereimerolsen'
 social:
-    email: 
+    email: stq729@alumni.ku.dk
     linkedin: 
     
 education:
