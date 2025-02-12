@@ -2,7 +2,7 @@
 layout: member
 category: postdoc
 title: Ernst Dennis Larrson
-image: ernstdennislarrson.jpg
+image: ernstdennislarsson.jpg
 role: Postdoctoral Researcher
 permalink: 'people/ernstdennislarrson'
 social:
