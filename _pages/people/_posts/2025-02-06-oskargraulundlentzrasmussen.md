@@ -6,7 +6,7 @@ image: oskargraulundletzrasmussen.jpg
 role: PhD
 permalink: 'people/oskargraulundlentzrasmussen'
 social:
-    email: 
+    email: oskr@sdu.dk
     linkedin: 
     
 education:
