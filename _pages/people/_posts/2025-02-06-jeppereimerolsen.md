@@ -2,7 +2,7 @@
 layout: member
 category: master
 title: Jeppe Reimer Olsen
-image: 
+image: jeppereimerolsen.jpg
 role: Master Student
 permalink: 'people/jeppereimerolsen'
 social:
