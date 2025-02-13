@@ -2,7 +2,7 @@
 layout: member
 category: phd
 title: Oskar Graulund Lentz Rasmussen
-image: oskargraulundletzrasmussen.jpg
+image: oskargraulundlentzrasmussen.jpg
 role: PhD
 permalink: 'people/oskargraulundlentzrasmussen'
 social:
