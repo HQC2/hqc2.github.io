@@ -2,7 +2,7 @@
 layout: member
 category: master
 title: Adrià Blanch Garrido
-image: 
+image: adriablanchgarrido.jpg
 role: Master Student
 permalink: 'people/adriablanchgarrido'
 social:
