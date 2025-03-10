@@ -16,7 +16,7 @@ permalink: /publications
     J. Phys. Chem. A <b>129</b>, 1504-1515 (2025)</li>
   <li>K. M. Ziems, E. R. Kjellgren, S. P. A. Sauer, J. Kongsted, S. Coriani:
     <a href="https://doi.org/10.1039/D4SC05839A" rel="nofollow noopener" target="_blank">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a>,
-    Chem. Sci. (2025)</li>
+    Chem. Sci. <b>16</b>, 4456 (2025)</li>
   <li>E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. P. A. Sauer, S. Coriani, J. Kongsted:
 <a href="https://doi.org/10.1063/5.0225409" rel="nofollow noopener" target="_blank">Divergences in classical and quantum linear response and equation of motion formulations</a>,
 J. Chem. Phys. <b>161</b>, 124112 (2024)</li>
