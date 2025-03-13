@@ -1,3 +1,10 @@
+- date: 13/03/25
+  title: Another quantum computing paper has been uploaded to arXiv.
+  content: P. W. K. Jensen et al., Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects, arXiv:2503.09214
+  link:
+    title: Link
+    url: https://arxiv.org/abs/2503.09214
+    
 - date: 14/01/25
   title: One more quantum computing paper has been uploaded to arXiv.
   content: P. Reinholdt et al., Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods, arXiv:2501.07231
