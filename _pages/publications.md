@@ -9,7 +9,7 @@ permalink: /publications
 ### Publications
 <ul>
   <li>P. W. K. Jensen, G. S. Hedemark, K. M. Ziems, E. R. Kjellgren, P. Reinholdt, S. Knecht, S. Coriani, J. Kongsted, S. P. A. Sauer:
-    <a href="https://arxiv.org/abs/2503.09214" rel_"nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
+    <a href="https://arxiv.org/abs/2503.09214" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
     arXiv:2503.09214 (uploaded) </li>
   <li>P. Reinholdt, K. M. Ziems, E.R. Kjellgren, S. Coriani, S. P. A. Sauer, J. Kongsted:
     <a href="https://arxiv.org/abs/2501.07231" rel="nofollow noopener" target="_blank">Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods </a>,
