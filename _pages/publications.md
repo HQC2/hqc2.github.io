@@ -8,6 +8,9 @@ permalink: /publications
 
 ### Publications
 <ul>
+  <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
+    <a href="https://arxiv.org/abs/2505.00883" rel="nofollow noopener" target="_blank">Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators </a>,
+    arXiv:2505.00883 (uploaded) </li>
   <li>P. W. K. Jensen, G. S. Hedemark, K. M. Ziems, E. R. Kjellgren, P. Reinholdt, S. Knecht, S. Coriani, J. Kongsted, S. P. A. Sauer:
     <a href="https://arxiv.org/abs/2503.09214" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
     arXiv:2503.09214 (uploaded) </li>
