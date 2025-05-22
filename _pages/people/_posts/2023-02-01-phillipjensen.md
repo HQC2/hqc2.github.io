@@ -1,9 +1,9 @@
 ---
 layout: member
 category: postdoc
-title: Phillip Jensen
+title: Phillip W. K. Jensen
 image: phillipjensen.jpeg
-role: Postdoctoral Researcher
+role: Assistant Professor
 permalink: 'people/phillipjensen'
 social:
     email: phillip.kastberg@gmail.com
