@@ -6,6 +6,12 @@ sitemap: false
 permalink: /publications
 ---
 
+<p align="center">
+    <img src="{{ site.baseurl }}/images/other/hqc2_publications.svg">
+</p>
+
+*Citation count as defined by [https://www.semanticscholar.org/](https://www.semanticscholar.org/)*
+
 ### Publications
 <ul>
   <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
