@@ -14,8 +14,4 @@ social:
     orcid: https://orcid.org/0000-0001-7487-944X
     gitlab: https://gitlab.com/erikkjellgren
     github: https://github.com/erikkjellgren/
-education:
- - PhD in chemistry, University of Southern Denmark, Denmark
 ---
-
-Something

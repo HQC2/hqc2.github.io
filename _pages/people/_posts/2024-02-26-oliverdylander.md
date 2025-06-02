@@ -7,8 +7,4 @@ role: Former Bachelor Student
 permalink: 'people/oliverdylander'
 social:
     email: qlh450@alumni.ku.dk
-education:
- - BSc Chemistry, University of Copenhagen, Denmark
 ---
-
-Something

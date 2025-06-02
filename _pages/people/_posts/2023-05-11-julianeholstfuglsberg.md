@@ -11,9 +11,4 @@ social:
     linkedin: https://www.linkedin.com/in/juliane-holst-fuglsbjerg-523295296/
     gitlab: https://gitlab.com/hbl293
     github: https://github.com/JulianeFuglsbjerg
-
-education:
- - MSc Physical Chemistry, University of Copenhagen, Denmark
 ---
-
-Something

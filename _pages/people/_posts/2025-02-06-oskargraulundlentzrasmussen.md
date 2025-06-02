@@ -7,10 +7,4 @@ role: PhD
 permalink: 'people/oskargraulundlentzrasmussen'
 social:
     email: oskr@sdu.dk
-    linkedin:
-
-education:
-
 ---
-
-Something

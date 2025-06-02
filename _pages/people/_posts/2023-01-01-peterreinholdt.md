@@ -12,8 +12,4 @@ social:
     google-scholar: https://scholar.google.dk/citations?user=ZLj6qKgAAAAJ&hl=en
     gitlab: https://gitlab.com/reinholdt
     github: https://github.com/peter-reinholdt
-education:
- - PhD in chemistry, University of Southern Denmark, Denmark
 ---
-
-Something

@@ -8,9 +8,4 @@ permalink: 'people/adriablanchgarrido'
 social:
     email: qjn980@alumni.ku.dk
     linkedin:
-
-education:
-
 ---
-
-Something

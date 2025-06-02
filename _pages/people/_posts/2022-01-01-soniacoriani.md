@@ -10,8 +10,4 @@ social:
     email: soco@kemi.dtu.dk
     google-scholar: https://scholar.google.it/citations?user=oE88bf0AAAAJ&hl=it
     orcid: https://orcid.org/0000-0002-4487-897X
-education:
- - Something
 ---
-
-Something
