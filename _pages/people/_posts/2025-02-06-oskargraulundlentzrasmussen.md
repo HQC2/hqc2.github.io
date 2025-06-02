@@ -7,10 +7,10 @@ role: PhD
 permalink: 'people/oskargraulundlentzrasmussen'
 social:
     email: oskr@sdu.dk
-    linkedin: 
-    
+    linkedin:
+
 education:
- 
+
 ---
 
 Something

@@ -7,10 +7,10 @@ role: Postdoctoral Researcher
 permalink: 'people/ernstdennislarrson'
 social:
     email: edl@sdu.dk
-    linkedin: 
-    
+    linkedin:
+
 education:
- 
+
 ---
 
 Something

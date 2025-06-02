@@ -7,10 +7,10 @@ role: Master Student
 permalink: 'people/adriablanchgarrido'
 social:
     email: qjn980@alumni.ku.dk
-    linkedin: 
-    
+    linkedin:
+
 education:
- 
+
 ---
 
 Something

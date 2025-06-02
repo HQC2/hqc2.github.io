@@ -14,7 +14,7 @@ It is exactly the goal of this research proposal to develop quantum chemistry to
 
 Long-term applications resulting from our efforts will be widespread. Even if our specific applications will be of relevance mainly for the biosciences, the novel methods we develop and deliver to the scientific community will not be limited to applications within the biosciences, but will find general utilization in many other scientific fields including e.g. molecular electronics and environmental chemistry in relation to reduction of the energy crisis.
 
-### Funding 
+### Funding
 
 Novo Nordisk Foundation
 

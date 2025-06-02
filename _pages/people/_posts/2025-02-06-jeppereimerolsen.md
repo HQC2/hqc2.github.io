@@ -7,10 +7,10 @@ role: Master Student
 permalink: 'people/jeppereimerolsen'
 social:
     email: stq729@alumni.ku.dk
-    linkedin: 
-    
+    linkedin:
+
 education:
- 
+
 ---
 
 Something
