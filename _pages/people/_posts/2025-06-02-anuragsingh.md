@@ -6,7 +6,5 @@ image:
 role: Postdoctoral Researcher
 permalink: 'people/anuragsingh'
 social:
-    email:
+    email: anurag@sdu.dk
 ---
-
-Something
