@@ -6,5 +6,5 @@ image: emanuelerossi.jpg
 role: Postdoctoral Researcher
 permalink: 'people/emanuelerossi
 social:
-  email: emaro@kemi.dtu.dk
+    email: emaro@kemi.dtu.dk
 ---
