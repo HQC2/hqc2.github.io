@@ -1,8 +1,8 @@
 ---
 layout: member
-category: master
+category: alumni
 title: Zhongqi Zhao
-role: Master Student
+role: Former Master Student
 image: zhongqizhao.jpg
 permalink: 'people/zhongqizhao'
 social:
