@@ -1,9 +1,9 @@
 ---
 layout: member
-category: master
+category: alumni
 title: Adrià Blanch Garrido
 image: adriablanchgarrido.jpg
-role: Master Student
+role: Former Master Student
 permalink: 'people/adriablanchgarrido'
 social:
     email: qjn980@alumni.ku.dk
