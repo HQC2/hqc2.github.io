@@ -21,7 +21,7 @@ permalink: /publications
     <a href="https://arxiv.org/abs/2503.09214" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
     arXiv:2503.09214 (uploaded) </li>
   <li>P. Reinholdt, K. M. Ziems, E.R. Kjellgren, S. Coriani, S. P. A. Sauer, J. Kongsted:
-    <a href="https://arxiv.org/abs/2501.07231" rel="nofollow noopener" target="_blank">Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods </a>,
+    <a href="https://arxiv.org/abs/2501.07231" rel="nofollow noopener" target="_blank">Critical Limitations in Quantum-Selected Configuration Interaction Methods </a>,
     arXiv:2501.07231 (uploaded) </li>
   <li>P. Reinholdt, E. R. Kjellgren, K. M. Ziems, S. Coriani, S. P. A. Sauer, J. Kongsted:
     <a href="https://doi.org/10.1021/acs.jpca.4c07534" rel="nofollow noopener" target="_blank">Self-consistent Quantum Linear Response with a Polarizable Embedding environment</a>,
