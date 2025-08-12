@@ -14,6 +14,9 @@ permalink: /publications
 
 ### Publications
 <ul>
+  <li>T. Juncker von Buchwald, E. R. Kjellgren, J. Kongsted, S. P. A. Sauer, S. Coriani:
+      <a href="https://arxiv.org/abs/2508.07296" rel="nofollow noopener" target="_blank">Reduced density matrix and cumulant approximations of quantum linear response</a>,
+      arXiv:2508.07296 (uploaded) </li>
   <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
     <a href="https://arxiv.org/abs/2505.00883" rel="nofollow noopener" target="_blank">Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators </a>,
     arXiv:2505.00883 (uploaded) </li>
