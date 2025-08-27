@@ -21,8 +21,8 @@ permalink: /publications
     <a href="https://arxiv.org/abs/2505.00883" rel="nofollow noopener" target="_blank">Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators </a>,
     arXiv:2505.00883 (uploaded) </li>
   <li>P. W. K. Jensen, G. S. Hedemark, K. M. Ziems, E. R. Kjellgren, P. Reinholdt, S. Knecht, S. Coriani, J. Kongsted, S. P. A. Sauer:
-    <a href="https://arxiv.org/abs/2503.09214" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
-    arXiv:2503.09214 (uploaded) </li>
+    <a href="https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00893" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
+    J. Chem. Theory Comput. <b>21</b>, 7878–7889 (2025) </li>
   <li>P. Reinholdt, K. M. Ziems, E.R. Kjellgren, S. Coriani, S. P. A. Sauer, J. Kongsted:
     <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.5c00375" rel="nofollow noopener" target="_blank">Critical Limitations in Quantum-Selected Configuration Interaction Methods </a>,
     J. Chem. Theory Comput. <b>21</b>, 6811–6822 (2025)</li>
