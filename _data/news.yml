@@ -1,5 +1,6 @@
 - date: 27/08/25
   title: A new paper has been published. For the second time we do actual hardware calculations on the IBM devices.
+  content: P. W. K. Jensen et al., 
   link:
     title: Link
     url: https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00893
@@ -160,6 +161,7 @@
   link:
     title: Link
     url: https://novonordiskfonden.dk/en/news/new-research-project-will-develop-tools-to-enable-quantum-computers-to-calculate-molecular-properties/
+
 
 
 
