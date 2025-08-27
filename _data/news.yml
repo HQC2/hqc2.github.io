@@ -1,9 +1,5 @@
 - date: 27/08/25
   title: A new paper has been published. For the second time we do actual hardware calculations on the IBM devices.
-  content: P. W. K. Jensen et al., Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects, J. Chem Theory. Comput.
-  link:
-    title: Link
-    url: https://pubs.rsc.org/en/Content/ArticleLanding/2025/SC/D4SC05839A
 
 - date: 15/05/25
   title: Phillip W. K. Jensen has been appointed as Assistant Professor at the Department of Chemistry, University of Copenhagen.
@@ -161,5 +157,6 @@
   link:
     title: Link
     url: https://novonordiskfonden.dk/en/news/new-research-project-will-develop-tools-to-enable-quantum-computers-to-calculate-molecular-properties/
+
 
 
