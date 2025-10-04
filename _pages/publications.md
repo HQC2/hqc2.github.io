@@ -17,9 +17,11 @@ permalink: /publications
 <ul>
   <li>T. Juncker von Buchwald, E. R. Kjellgren, J. Kongsted, S. P. A. Sauer, S. Coriani:
 <a href="https://arxiv.org/abs/2508.07296" rel="nofollow noopener" target="_blank">Reduced density matrix and cumulant approximations of quantum linear response</a>,
+  arXiv:2508.07296 </li>
 </ul>
 
 ### Publications
+
 <ul>
   <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
 <a href="https://doi.org/10.1063/5.0278717" rel="nofollow noopener" target="_blank">Redundant parameter dependencies in conventional and quantum linear response and equation of motion theory for unitary parameterized wave functions</a>,
