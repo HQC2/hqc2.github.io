@@ -7,5 +7,5 @@ role: PhD
 permalink: 'people/annathornekstrøm'
 social:
     email: ate@chem.ku.dk
-    linkedin: 
+    linkedin:
 ---
