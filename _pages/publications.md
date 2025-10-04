@@ -12,25 +12,32 @@ permalink: /publications
 
 *Citation count as defined by [https://www.semanticscholar.org/](https://www.semanticscholar.org/)*
 
-### Publications
+### Submitted
+
 <ul>
   <li>T. Juncker von Buchwald, E. R. Kjellgren, J. Kongsted, S. P. A. Sauer, S. Coriani:
-      <a href="https://arxiv.org/abs/2508.07296" rel="nofollow noopener" target="_blank">Reduced density matrix and cumulant approximations of quantum linear response</a>,
-      arXiv:2508.07296 (uploaded) </li>
+<a href="https://arxiv.org/abs/2508.07296" rel="nofollow noopener" target="_blank">Reduced density matrix and cumulant approximations of quantum linear response</a>,
+</ul>
+
+### Publications
+<ul>
   <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
-    <a href="https://arxiv.org/abs/2505.00883" rel="nofollow noopener" target="_blank">Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators </a>,
-    arXiv:2505.00883 (uploaded) </li>
+<a href="https://doi.org/10.1063/5.0278717" rel="nofollow noopener" target="_blank">Redundant parameter dependencies in conventional and quantum linear response and equation of motion theory for unitary parameterized wave functions</a>,
+    J. Chem. Phys. <b>163</b>, 134111 (2025) </li>
+  <li>E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. P. A. Sauer, S. Coriani, J. Kongsted:
+<a href="https://doi.org/10.1063/5.0284287" rel="nofollow noopener" target="_blank">Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators</a>,
+    J. Chem. Phys. <b>163</b>, 134115 (2025) </li>
   <li>P. W. K. Jensen, G. S. Hedemark, K. M. Ziems, E. R. Kjellgren, P. Reinholdt, S. Knecht, S. Coriani, J. Kongsted, S. P. A. Sauer:
-    <a href="https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00893" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
+<a href="https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00893" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
     J. Chem. Theory Comput. <b>21</b>, 7878–7889 (2025) </li>
   <li>P. Reinholdt, K. M. Ziems, E.R. Kjellgren, S. Coriani, S. P. A. Sauer, J. Kongsted:
-    <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.5c00375" rel="nofollow noopener" target="_blank">Critical Limitations in Quantum-Selected Configuration Interaction Methods </a>,
+<a href="https://pubs.acs.org/doi/10.1021/acs.jctc.5c00375" rel="nofollow noopener" target="_blank">Critical Limitations in Quantum-Selected Configuration Interaction Methods</a>,
     J. Chem. Theory Comput. <b>21</b>, 6811–6822 (2025)</li>
   <li>P. Reinholdt, E. R. Kjellgren, K. M. Ziems, S. Coriani, S. P. A. Sauer, J. Kongsted:
-    <a href="https://doi.org/10.1021/acs.jpca.4c07534" rel="nofollow noopener" target="_blank">Self-consistent Quantum Linear Response with a Polarizable Embedding environment</a>,
+<a href="https://doi.org/10.1021/acs.jpca.4c07534" rel="nofollow noopener" target="_blank">Self-consistent Quantum Linear Response with a Polarizable Embedding environment</a>,
     J. Phys. Chem. A <b>129</b>, 1504-1515 (2025)</li>
   <li>K. M. Ziems, E. R. Kjellgren, S. P. A. Sauer, J. Kongsted, S. Coriani:
-    <a href="https://doi.org/10.1039/D4SC05839A" rel="nofollow noopener" target="_blank">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a>,
+<a href="https://doi.org/10.1039/D4SC05839A" rel="nofollow noopener" target="_blank">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a>,
     Chem. Sci. <b>16</b>, 4456 (2025)</li>
   <li>E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. P. A. Sauer, S. Coriani, J. Kongsted:
 <a href="https://doi.org/10.1063/5.0225409" rel="nofollow noopener" target="_blank">Divergences in classical and quantum linear response and equation of motion formulations</a>,
