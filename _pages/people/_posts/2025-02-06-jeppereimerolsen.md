@@ -1,6 +1,6 @@
 ---
 layout: member
-category: master
+category: alumni
 title: Jeppe Reimer Olsen
 image: jeppereimerolsen.jpg
 role: Former Master Student
