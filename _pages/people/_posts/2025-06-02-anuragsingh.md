@@ -2,7 +2,7 @@
 layout: member
 category: postdoc
 title: Anurag Singh
-image:
+image: anuragsingh.jpeg
 role: Postdoctoral Researcher
 permalink: 'people/anuragsingh'
 social:
