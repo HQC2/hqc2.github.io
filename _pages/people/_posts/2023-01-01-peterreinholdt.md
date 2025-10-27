@@ -3,7 +3,7 @@ layout: member
 category: postdoc
 title: Peter Reinholdt
 image: peterreinholdt.jpg
-role: Postdoctoral Researcher
+role: Assistant Professor
 permalink: 'people/peterreinholdt'
 social:
     email: kjellgren@sdu.dk
