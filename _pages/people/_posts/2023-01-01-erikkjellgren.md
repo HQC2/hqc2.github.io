@@ -3,7 +3,7 @@ layout: member
 category: postdoc
 title: Erik Kjellgren
 image: erikkjellgren.jpg
-role: Postdoctoral Researcher
+role: Assistant Professor
 permalink: 'people/erikkjellgren'
 social:
     email: kjellgren@sdu.dk
