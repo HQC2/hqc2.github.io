@@ -1,6 +1,6 @@
 ---
 layout: member
-category: postdoc
+category: researcher
 title: Karl Michael Ziems
 image: karlmichaelziems.jpg
 role: Lecturer University of Southampton
@@ -11,3 +11,4 @@ social:
     orcid: https://www.orcid.org/0000-0001-5369-7778
     github: https://www.github.com/ziechys
 ---
+
