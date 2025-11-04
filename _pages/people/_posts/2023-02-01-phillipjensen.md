@@ -1,6 +1,6 @@
 ---
 layout: member
-category: postdoc
+category: researcher
 title: Phillip W. K. Jensen
 image: phillipjensen.jpeg
 role: Assistant Professor
