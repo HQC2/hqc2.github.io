@@ -1,6 +1,6 @@
 ---
 layout: member
-category: postdoc
+category: researcher
 title: Peter Reinholdt
 image: peterreinholdt.jpg
 role: Assistant Professor
