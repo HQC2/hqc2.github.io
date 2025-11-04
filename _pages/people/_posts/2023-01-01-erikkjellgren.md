@@ -1,6 +1,6 @@
 ---
 layout: member
-category: postdoc
+category: researcher
 title: Erik Kjellgren
 image: erikkjellgren.jpg
 role: Assistant Professor
