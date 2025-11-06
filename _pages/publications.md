@@ -21,7 +21,7 @@ permalink: /publications
 </ul>
 
 <ul>
-  <li>T. Juncker von Buchwald, E. R. Kjellgren, J. Kongsted, S. P. A. Sauer, S. Coriani:
+  <li>Theo Juncker von Buchwald, Erik Rosendahl Kjellgren, Jacob Kongsted, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems:
 <a href="https://arxiv.org/abs/2508.07296" rel="nofollow noopener" target="_blank">Reduced density matrix and cumulant approximations of quantum linear response</a>,
   arXiv:2508.07296 </li>
 </ul>
