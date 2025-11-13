@@ -16,6 +16,6 @@ Long-term applications resulting from our efforts will be widespread. Even if ou
 
 ### Funding
 
-Novo Nordisk Foundation
+Novo Nordisk Foundation with additional grants from Danmarks Frie Forskningsfond (DFF), National Quantum Algorithm Academy (NQAA) under Danish e-infrastructure Consortium (DeiC), Danish Data Science Academy (DDSA), Villum Foundation, EUREKA, EuroHPC JU and University of Southern Denmark.
 
 [Find more about it here](https://novonordiskfonden.dk/en/news/new-research-project-will-develop-tools-to-enable-quantum-computers-to-calculate-molecular-properties/)
