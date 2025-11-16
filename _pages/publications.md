@@ -15,9 +15,15 @@ permalink: /publications
 ### Submitted
 
 <ul>
+  <li>Juliane H. Fuglsbjerg, Peter Reinholdt, Erik Kjellgren, Phillip W. K. Jensen, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer:
+<a href="https://arxiv.org/abs/2511.09730" rel="nofollow noopener" target="_blank">Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin-Spin Coupling Constants within a Quantum Linear Response Framewor</a>,
+  arXiv:2511.09730 </li>
+</ul>
+
+<ul>
   <li>Zhongqi Zhao, Erik Rosendahl Kjellgren, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer, Karl Michael Ziems:
 <a href="https://arxiv.org/abs/2511.03556" rel="nofollow noopener" target="_blank">Quantum error mitigation using energy sampling and extrapolation enhanced Clifford data regression</a>,
-  arXiv:2508.07296 </li>
+  arXiv:2511.03556 </li>
 </ul>
 
 <ul>
