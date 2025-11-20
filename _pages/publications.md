@@ -15,6 +15,12 @@ permalink: /publications
 ### Submitted
 
 <ul>
+  <li>Paarth Jain, Artur F. Izmaylov, Erik R. Kjellgren:
+<a href="https://arxiv.org/abs/2511.14914" rel="nofollow noopener" target="_blank">Exact Factorization of Unitary Transformations with Spin-Adapted Generators</a>,
+  arXiv:2511.14914 </li>
+</ul>
+
+<ul>
   <li>Juliane H. Fuglsbjerg, Peter Reinholdt, Erik Kjellgren, Phillip W. K. Jensen, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer:
 <a href="https://arxiv.org/abs/2511.09730" rel="nofollow noopener" target="_blank">Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin-Spin Coupling Constants within a Quantum Linear Response Framewor</a>,
   arXiv:2511.09730 </li>
