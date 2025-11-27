@@ -15,6 +15,12 @@ permalink: /publications
 ### Submitted
 
 <ul>
+  <li>Oscar G. L. Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems, Jacob Kongsted:
+<a href="https://arxiv.org/abs/2511.21236" rel="nofollow noopener" target="_blank">Cost-effective scalable quantum error mitigation for tiled Ansätze</a>,
+  arXiv:2511.21236 </li>
+</ul>
+
+<ul>
   <li>Paarth Jain, Artur F. Izmaylov, Erik R. Kjellgren:
 <a href="https://arxiv.org/abs/2511.14914" rel="nofollow noopener" target="_blank">Exact Factorization of Unitary Transformations with Spin-Adapted Generators</a>,
   arXiv:2511.14914 </li>
