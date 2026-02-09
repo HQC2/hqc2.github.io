@@ -38,14 +38,13 @@ permalink: /publications
   arXiv:2511.03556 </li>
 </ul>
 
-<ul>
-  <li>Theo Juncker von Buchwald, Erik Rosendahl Kjellgren, Jacob Kongsted, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems:
-<a href="https://arxiv.org/abs/2508.07296" rel="nofollow noopener" target="_blank">Reduced density matrix and cumulant approximations of quantum linear response</a>,
-  arXiv:2508.07296 </li>
-</ul>
-
 ### Publications
 
+<ul>
+  <li>Theo Juncker von Buchwald, Erik Rosendahl Kjellgren, Jacob Kongsted, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems:
+<a href="https://pubs.acs.org/doi/10.1021/acs.jctc.5c01353" rel="nofollow noopener" target="_blank">Reduced Density Matrix and Cumulant Approximations of Quantum Linear Response</a>,
+  J. Chem. Theory Comput. <b>XXXX</b>, XXXX–XXXX (2026) </li>
+</ul>
 <ul>
   <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
 <a href="https://doi.org/10.1063/5.0278717" rel="nofollow noopener" target="_blank">Redundant parameter dependencies in conventional and quantum linear response and equation of motion theory for unitary parameterized wave functions</a>,
