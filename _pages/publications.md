@@ -43,7 +43,7 @@ permalink: /publications
 <ul>
   <li>Theo Juncker von Buchwald, Erik Rosendahl Kjellgren, Jacob Kongsted, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems:
 <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.5c01353" rel="nofollow noopener" target="_blank">Reduced Density Matrix and Cumulant Approximations of Quantum Linear Response</a>,
-  J. Chem. Theory Comput. <b>XXXX</b>, XXXX–XXXX (2026) </li>
+  J. Chem. Theory Comput. <b>22</b>, 1652–1663 (2026) </li>
 </ul>
 <ul>
   <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
