@@ -36,7 +36,7 @@ permalink: /publications
 <ul>
   <li>Juliane H. Fuglsbjerg, Peter Reinholdt, Erik Kjellgren, Phillip W. K. Jensen, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer:
 <a href="https://arxiv.org/abs/2511.09730" rel="nofollow noopener" target="_blank">Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin-Spin Coupling Constants within a Quantum Linear Response Framewor</a>,
-  J. CHem. Theory Comput. (accepted) arXiv:2511.09730 </li>
+  J. Chem. Theory Comput. (accepted) arXiv:2511.09730 </li>
 </ul>
 <ul>
   <li>Theo Juncker von Buchwald, Erik Rosendahl Kjellgren, Jacob Kongsted, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems:
