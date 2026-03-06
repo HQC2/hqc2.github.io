@@ -27,19 +27,17 @@ permalink: /publications
 </ul>
 
 <ul>
-  <li>Juliane H. Fuglsbjerg, Peter Reinholdt, Erik Kjellgren, Phillip W. K. Jensen, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer:
-<a href="https://arxiv.org/abs/2511.09730" rel="nofollow noopener" target="_blank">Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin-Spin Coupling Constants within a Quantum Linear Response Framewor</a>,
-  arXiv:2511.09730 </li>
-</ul>
-
-<ul>
   <li>Zhongqi Zhao, Erik Rosendahl Kjellgren, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer, Karl Michael Ziems:
 <a href="https://arxiv.org/abs/2511.03556" rel="nofollow noopener" target="_blank">Quantum error mitigation using energy sampling and extrapolation enhanced Clifford data regression</a>,
   arXiv:2511.03556 </li>
 </ul>
 
 ### Publications
-
+<ul>
+  <li>Juliane H. Fuglsbjerg, Peter Reinholdt, Erik Kjellgren, Phillip W. K. Jensen, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer:
+<a href="https://arxiv.org/abs/2511.09730" rel="nofollow noopener" target="_blank">Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin-Spin Coupling Constants within a Quantum Linear Response Framewor</a>,
+  J. CHem. Theory Comput. (accepted) arXiv:2511.09730 </li>
+</ul>
 <ul>
   <li>Theo Juncker von Buchwald, Erik Rosendahl Kjellgren, Jacob Kongsted, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems:
 <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.5c01353" rel="nofollow noopener" target="_blank">Reduced Density Matrix and Cumulant Approximations of Quantum Linear Response</a>,
