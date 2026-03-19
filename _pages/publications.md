@@ -10,7 +10,7 @@ permalink: /publications
     <img src="{{ site.baseurl }}/images/other/hqc2_publications.svg">
 </p>
 
-*Citation count as defined by [https://www.semanticscholar.org/](https://www.semanticscholar.org/)*
+*Publication year and citation count as defined by [https://www.semanticscholar.org/](https://www.semanticscholar.org/)*
 
 ### Submitted
 
@@ -45,10 +45,10 @@ permalink: /publications
 </ul>
 <ul>
   <li>E. R. Kjellgren, K. M. Ziems, P. Reinholdt, S. P. A. Sauer, S. Coriani, J. Kongsted:
-<a href="https://doi.org/10.1063/5.0278717" rel="nofollow noopener" target="_blank">Redundant parameter dependencies in conventional and quantum linear response and equation of motion theory for unitary parameterized wave functions</a>,
+<a href="https://doi.org/10.1063/5.0284287" rel="nofollow noopener" target="_blank">Redundant parameter dependencies in conventional and quantum linear response and equation of motion theory for unitary parameterized wave functions</a>,
     J. Chem. Phys. <b>163</b>, 134111 (2025) </li>
   <li>E. R. Kjellgren, P. Reinholdt, K. M. Ziems, S. P. A. Sauer, S. Coriani, J. Kongsted:
-<a href="https://doi.org/10.1063/5.0284287" rel="nofollow noopener" target="_blank">Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators</a>,
+<a href="https://doi.org/10.1063/5.0278717" rel="nofollow noopener" target="_blank">Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators</a>,
     J. Chem. Phys. <b>163</b>, 134115 (2025) </li>
   <li>P. W. K. Jensen, G. S. Hedemark, K. M. Ziems, E. R. Kjellgren, P. Reinholdt, S. Knecht, S. Coriani, J. Kongsted, S. P. A. Sauer:
 <a href="https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00893" rel="nofollow noopener" target="_blank">Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects </a>,
