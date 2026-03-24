@@ -13,7 +13,11 @@ permalink: /publications
 *Publication year and citation count as defined by [https://www.semanticscholar.org/](https://www.semanticscholar.org/)*
 
 ### Submitted
-
+<ul>
+  <li>Ignacio Loaiza, Alexander Kunitsa, Stepan Fomichev, Danial Motlagh, Diksha Dhawan, Soran Jahangiri, Juliane Holst Fuglsbjerg, Artur F. Izmaylov, Nathan Wiebe, Yaser Abu-Lebdeh, Juan Miguel Arrazola, Alain Delgado:
+<a href="https://arxiv.org/abs/2602.20270" rel="nofollow noopener" target="_blank">Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials</a>,
+   	arXiv:2602.20270 </li>
+</ul>
 <ul>
   <li>Oscar G. L. Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems, Jacob Kongsted:
 <a href="https://arxiv.org/abs/2511.21236" rel="nofollow noopener" target="_blank">Cost-effective scalable quantum error mitigation for tiled Ansätze</a>,
