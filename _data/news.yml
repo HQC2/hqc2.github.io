@@ -1,3 +1,10 @@
+- date: 16/04/26
+  title: Another paper has been published, now with our PhD student Juliane Fuglsbjerg as first author
+  content: Juliane H. Fuglsbjerg et al., Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin–Spin Coupling Constants within a Quantum Linear Response Framework, J. Chem. Theory Comput.
+  link:
+    title: Link
+    url: https://doi.org/10.1021/acs.jctc.5c01951 
+
 - date: 27/08/25
   title: A new paper has been published. For the second time we do actual hardware calculations on the IBM devices.
   content: P. W. K. Jensen et al., Hyperfine Coupling Constants on Quantum Computers - Performance, Errors, and Future Prospects, J. Chem. Theory Comput.
