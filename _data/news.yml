@@ -5,6 +5,13 @@
     title: Link
     url: https://doi.org/10.1021/acs.jctc.5c01951 
 
+- date: 15/04/26
+  title: PhD student Theo Juncker von Buchwald gave a talk at the Scientific Quantum Conference 2026 in Aalborg.
+  content: The talk was titled "Targeting Computational Spectroscopy on Current Quantum Hardware".
+  link:
+    title: Link
+    url: https://dqc.dk/event/scientific-quantum-conference-2/
+
 - date: 27/08/25
   title: A new paper has been published. For the second time we do actual hardware calculations on the IBM devices.
   content: P. W. K. Jensen et al., Hyperfine Coupling Constants on Quantum Computers - Performance, Errors, and Future Prospects, J. Chem. Theory Comput.
