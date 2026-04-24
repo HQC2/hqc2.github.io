@@ -14,6 +14,11 @@ permalink: /publications
 
 ### Submitted
 <ul>
+  <li>Ernst Dennis Lægteskov Binau Larsson, Erik Kjellgren, Peter Reinholdt, Jacob Kongsted:
+<a href="https://arxiv.org/abs/2602.20270" rel="nofollow noopener" target="_blank">State-Averaged Quantum Algorithms for Multiconfigurational Surface Chemistry: A Benchmark on Rh@TiO2(110)</a>,
+   	arXiv:2604.2604 </li>
+</ul>
+<ul>
   <li>Ignacio Loaiza, Alexander Kunitsa, Stepan Fomichev, Danial Motlagh, Diksha Dhawan, Soran Jahangiri, Juliane Holst Fuglsbjerg, Artur F. Izmaylov, Nathan Wiebe, Yaser Abu-Lebdeh, Juan Miguel Arrazola, Alain Delgado:
 <a href="https://arxiv.org/abs/2602.20270" rel="nofollow noopener" target="_blank">Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials</a>,
    	arXiv:2602.20270 </li>
