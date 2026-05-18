@@ -28,13 +28,6 @@ permalink: /publications
 <a href="https://arxiv.org/abs/2511.21236" rel="nofollow noopener" target="_blank">Cost-effective scalable quantum error mitigation for tiled Ansätze</a>,
   arXiv:2511.21236 </li>
 </ul>
-
-<ul>
-  <li>Paarth Jain, Artur F. Izmaylov, Erik R. Kjellgren:
-<a href="https://arxiv.org/abs/2511.14914" rel="nofollow noopener" target="_blank">Exact Factorization of Unitary Transformations with Spin-Adapted Generators</a>,
-  arXiv:2511.14914 </li>
-</ul>
-
 <ul>
   <li>Zhongqi Zhao, Erik Rosendahl Kjellgren, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer, Karl Michael Ziems:
 <a href="https://arxiv.org/abs/2511.03556" rel="nofollow noopener" target="_blank">Quantum error mitigation using energy sampling and extrapolation enhanced Clifford data regression</a>,
@@ -42,6 +35,11 @@ permalink: /publications
 </ul>
 
 ### Publications
+<ul>
+  <li>Paarth Jain, Artur F. Izmaylov, Erik R. Kjellgren:
+<a href="https://pubs.aip.org/aip/jcp/article-abstract/164/19/194107/3391413/Exact-factorization-of-unitary-transformations?redirectedFrom=fulltext" rel="nofollow noopener" target="_blank">Exact Factorization of Unitary Transformations with Spin-Adapted Generators</a>,
+  J. Chem. Phys. <b>164</b>, 194107 (2026) </li>
+</ul>
 <ul>
   <li>Juliane H. Fuglsbjerg, Peter Reinholdt, Erik Kjellgren, Phillip W. K. Jensen, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer:
 <a href="https://doi.org/10.1021/acs.jctc.5c01951" rel="nofollow noopener" target="_blank">Orbital-Optimized Unitary Coupled Cluster for Indirect Nuclear Spin-Spin Coupling Constants within a Quantum Linear Response Framework</a>,
