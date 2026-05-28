@@ -6,7 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<<<<<<< Updated upstream
     <dc:date>2026-05-19T14:20:17.247950</dc:date>
+=======
+    <dc:date>2026-05-25T18:28:38.739796</dc:date>
+>>>>>>> Stashed changes
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -31,59 +35,84 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 42.41 187.965779
-L 283.57 187.965779
-L 283.57 27.6
+L 277.855 187.965779
+L 277.855 27.6
 L 42.41 27.6
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 64.333636 187.965779
-L 108.180909 187.965779
-L 108.180909 119.237588
-L 64.333636 119.237588
+    <path d="M 63.814091 187.965779
+L 106.622273 187.965779
+L 106.622273 119.237588
+L 63.814091 119.237588
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p01e1d5e988)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p0b1a625b72)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_4">
-    <path d="M 119.142727 187.965779
-L 162.99 187.965779
-L 162.99 50.509397
-L 119.142727 50.509397
+    <path d="M 117.324318 187.965779
+L 160.1325 187.965779
+L 160.1325 50.509397
+L 117.324318 50.509397
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p01e1d5e988)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p0b1a625b72)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_5">
-    <path d="M 173.951818 187.965779
-L 217.799091 187.965779
-L 217.799091 73.418794
-L 173.951818 73.418794
+    <path d="M 170.834545 187.965779
+L 213.642727 187.965779
+L 213.642727 50.509397
+L 170.834545 50.509397
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p01e1d5e988)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p0b1a625b72)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_6">
-    <path d="M 228.760909 187.965779
-L 272.608182 187.965779
-L 272.608182 165.056382
-L 228.760909 165.056382
+    <path d="M 224.344773 187.965779
+L 267.152955 187.965779
+L 267.152955 165.056382
+L 224.344773 165.056382
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p01e1d5e988)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p0b1a625b72)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
+<<<<<<< Updated upstream
        <path id="m3b450c664b" d="M 0 0
 L 0 3.5
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
        <use xlink:href="#m3b450c664b" x="86.257273" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <path id="m5bacd6b3a8" d="M 0 0
+L 0 3.5
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5bacd6b3a8" x="85.218182" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_1">
       <!-- 2023 -->
-      <g transform="translate(77.80116 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(76.762069 223.008308) rotate(-45) scale(0.12 -0.12)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531
 L 3431 531
@@ -173,12 +202,16 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3b450c664b" x="141.066364" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m5bacd6b3a8" x="138.728409" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_2">
       <!-- 2024 -->
-      <g transform="translate(132.61025 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(130.272296 223.008308) rotate(-45) scale(0.12 -0.12)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116
 L 825 1625
@@ -210,12 +243,16 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3b450c664b" x="195.875455" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m5bacd6b3a8" x="192.238636" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_3">
       <!-- 2025 -->
-      <g transform="translate(187.419341 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(183.782523 223.008308) rotate(-45) scale(0.12 -0.12)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666
 L 3169 4666
@@ -253,12 +290,16 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3b450c664b" x="250.684545" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m5bacd6b3a8" x="245.748864" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_4">
       <!-- 2026 -->
-      <g transform="translate(242.228432 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(237.29275 223.008308) rotate(-45) scale(0.12 -0.12)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584
 Q 1688 2584 1439 2293
@@ -300,7 +341,7 @@ z
     </g>
     <g id="text_5">
      <!-- Year -->
-     <g transform="translate(150.285 237.891107) scale(0.12 -0.12)">
+     <g transform="translate(147.4275 237.891107) scale(0.12 -0.12)">
       <defs>
        <path id="DejaVuSans-59" d="M -13 4666
 L 666 4666
@@ -401,12 +442,21 @@ z
     <g id="ytick_1">
      <g id="line2d_5">
       <defs>
+<<<<<<< Updated upstream
        <path id="m3f5c99e4d5" d="M 0 0
 L -3.5 0
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
        <use xlink:href="#m3f5c99e4d5" x="42.41" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <path id="mce1d7555c3" d="M 0 0
+L -3.5 0
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mce1d7555c3" x="42.41" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_6">
@@ -419,7 +469,11 @@ L -3.5 0
     <g id="ytick_2">
      <g id="line2d_6">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3f5c99e4d5" x="42.41" y="142.146985" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#mce1d7555c3" x="42.41" y="142.146985" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_7">
@@ -432,7 +486,11 @@ L -3.5 0
     <g id="ytick_3">
      <g id="line2d_7">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3f5c99e4d5" x="42.41" y="96.328191" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#mce1d7555c3" x="42.41" y="96.328191" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_8">
@@ -445,7 +503,11 @@ L -3.5 0
     <g id="ytick_4">
      <g id="line2d_8">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3f5c99e4d5" x="42.41" y="50.509397" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#mce1d7555c3" x="42.41" y="50.509397" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_9">
@@ -794,23 +856,23 @@ L 42.41 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_8">
-    <path d="M 283.57 187.965779
-L 283.57 27.6
+    <path d="M 277.855 187.965779
+L 277.855 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_9">
     <path d="M 42.41 187.965779
-L 283.57 187.965779
+L 277.855 187.965779
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_10">
     <path d="M 42.41 27.6
-L 283.57 27.6
+L 277.855 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_11">
     <!-- Per year -->
-    <g transform="translate(138.137813 21.6) scale(0.12 -0.12)">
+    <g transform="translate(135.280313 21.6) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-50" d="M 1259 4147
 L 1259 2394
@@ -864,55 +926,75 @@ z
   </g>
   <g id="axes_2">
    <g id="patch_11">
-    <path d="M 370.73 187.965779
+    <path d="M 376.445 187.965779
 L 611.89 187.965779
 L 611.89 27.6
-L 370.73 27.6
+L 376.445 27.6
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_12">
-    <path d="M 392.653636 187.965779
-L 436.500909 187.965779
-L 436.500909 157.897196
-L 392.653636 157.897196
+    <path d="M 397.849091 187.965779
+L 440.657273 187.965779
+L 440.657273 159.665936
+L 397.849091 159.665936
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p5ecc905627)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p3b18225872)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_13">
-    <path d="M 447.462727 187.965779
-L 491.31 187.965779
-L 491.31 97.760028
-L 447.462727 97.760028
+    <path d="M 451.359318 187.965779
+L 494.1675 187.965779
+L 494.1675 103.066249
+L 451.359318 103.066249
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p5ecc905627)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p3b18225872)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_14">
-    <path d="M 502.271818 187.965779
-L 546.119091 187.965779
-L 546.119091 47.645722
-L 502.271818 47.645722
+    <path d="M 504.869545 187.965779
+L 547.677727 187.965779
+L 547.677727 46.466562
+L 504.869545 46.466562
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p5ecc905627)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p3b18225872)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_15">
-    <path d="M 557.080909 187.965779
-L 600.928182 187.965779
-L 600.928182 37.622861
-L 557.080909 37.622861
+    <path d="M 558.379773 187.965779
+L 601.187955 187.965779
+L 601.187955 37.033281
+L 558.379773 37.033281
 z
+<<<<<<< Updated upstream
 " clip-path="url(#p5ecc905627)" style="fill: #1f77b4"/>
+=======
+" clip-path="url(#p3b18225872)" style="fill: #1f77b4"/>
+>>>>>>> Stashed changes
    </g>
    <g id="matplotlib.axis_3">
     <g id="xtick_5">
      <g id="line2d_9">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3b450c664b" x="414.577273" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m5bacd6b3a8" x="419.253182" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_12">
       <!-- 2023 -->
-      <g transform="translate(406.12116 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(410.797069 223.008308) rotate(-45) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0)"/>
        <use xlink:href="#DejaVuSans-32" transform="translate(127.246094 0)"/>
@@ -923,12 +1005,16 @@ z
     <g id="xtick_6">
      <g id="line2d_10">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3b450c664b" x="469.386364" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m5bacd6b3a8" x="472.763409" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_13">
       <!-- 2024 -->
-      <g transform="translate(460.93025 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(464.307296 223.008308) rotate(-45) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0)"/>
        <use xlink:href="#DejaVuSans-32" transform="translate(127.246094 0)"/>
@@ -939,12 +1025,16 @@ z
     <g id="xtick_7">
      <g id="line2d_11">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3b450c664b" x="524.195455" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m5bacd6b3a8" x="526.273636" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_14">
       <!-- 2025 -->
-      <g transform="translate(515.739341 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(517.817523 223.008308) rotate(-45) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0)"/>
        <use xlink:href="#DejaVuSans-32" transform="translate(127.246094 0)"/>
@@ -955,12 +1045,16 @@ z
     <g id="xtick_8">
      <g id="line2d_12">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3b450c664b" x="579.004545" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m5bacd6b3a8" x="579.783864" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_15">
       <!-- 2026 -->
-      <g transform="translate(570.548432 223.008308) rotate(-45) scale(0.12 -0.12)">
+      <g transform="translate(571.32775 223.008308) rotate(-45) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0)"/>
        <use xlink:href="#DejaVuSans-32" transform="translate(127.246094 0)"/>
@@ -970,7 +1064,7 @@ z
     </g>
     <g id="text_16">
      <!-- Year -->
-     <g transform="translate(478.605 237.891107) scale(0.12 -0.12)">
+     <g transform="translate(481.4625 237.891107) scale(0.12 -0.12)">
       <use xlink:href="#DejaVuSans-59"/>
       <use xlink:href="#DejaVuSans-65" transform="translate(47.833984 0)"/>
       <use xlink:href="#DejaVuSans-61" transform="translate(109.357422 0)"/>
@@ -982,12 +1076,16 @@ z
     <g id="ytick_5">
      <g id="line2d_13">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3f5c99e4d5" x="370.73" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#mce1d7555c3" x="376.445" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_17">
       <!-- 0 -->
-      <g transform="translate(356.095 192.524842) scale(0.12 -0.12)">
+      <g transform="translate(361.81 192.524842) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
      </g>
@@ -995,12 +1093,16 @@ z
     <g id="ytick_6">
      <g id="line2d_14">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3f5c99e4d5" x="370.73" y="137.851473" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#mce1d7555c3" x="376.445" y="140.799374" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_18">
       <!-- 5 -->
-      <g transform="translate(356.095 142.410536) scale(0.12 -0.12)">
+      <g transform="translate(361.81 145.358436) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-35"/>
       </g>
      </g>
@@ -1008,12 +1110,16 @@ z
     <g id="ytick_7">
      <g id="line2d_15">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3f5c99e4d5" x="370.73" y="87.737167" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#mce1d7555c3" x="376.445" y="93.632968" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_19">
       <!-- 10 -->
-      <g transform="translate(348.46 92.29623) scale(0.12 -0.12)">
+      <g transform="translate(354.175 98.19203) scale(0.12 -0.12)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531
 L 1825 531
@@ -1038,12 +1144,16 @@ z
     <g id="ytick_8">
      <g id="line2d_16">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m3f5c99e4d5" x="370.73" y="37.622861" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#mce1d7555c3" x="376.445" y="46.466562" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_20">
       <!-- 15 -->
-      <g transform="translate(348.46 42.181924) scale(0.12 -0.12)">
+      <g transform="translate(354.175 51.025625) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" transform="translate(63.623047 0)"/>
       </g>
@@ -1051,7 +1161,7 @@ z
     </g>
     <g id="text_21">
      <!-- # peer reviewed publications -->
-     <g style="fill: #1f77b4" transform="translate(341.964375 195.880702) rotate(-90) scale(0.12 -0.12)">
+     <g style="fill: #1f77b4" transform="translate(347.679375 195.880702) rotate(-90) scale(0.12 -0.12)">
       <use xlink:href="#DejaVuSans-23"/>
       <use xlink:href="#DejaVuSans-20" transform="translate(83.789062 0)"/>
       <use xlink:href="#DejaVuSans-70" transform="translate(115.576172 0)"/>
@@ -1084,8 +1194,8 @@ z
     </g>
    </g>
    <g id="patch_16">
-    <path d="M 370.73 187.965779
-L 370.73 27.6
+    <path d="M 376.445 187.965779
+L 376.445 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_17">
@@ -1094,18 +1204,18 @@ L 611.89 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_18">
-    <path d="M 370.73 187.965779
+    <path d="M 376.445 187.965779
 L 611.89 187.965779
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_19">
-    <path d="M 370.73 27.6
+    <path d="M 376.445 27.6
 L 611.89 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_22">
     <!-- Cumulative -->
-    <g transform="translate(457.065 21.6) scale(0.12 -0.12)">
+    <g transform="translate(459.9225 21.6) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306
 L 4122 3641
@@ -1177,17 +1287,26 @@ z
     <g id="ytick_9">
      <g id="line2d_17">
       <defs>
+<<<<<<< Updated upstream
        <path id="m670f04a205" d="M 0 0
 L 3.5 0
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
        <use xlink:href="#m670f04a205" x="283.57" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <path id="m25be7b770b" d="M 0 0
+L 3.5 0
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m25be7b770b" x="277.855" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_23">
       <!-- 0 -->
-      <g transform="translate(290.57 192.524842) scale(0.12 -0.12)">
+      <g transform="translate(284.855 192.524842) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
      </g>
@@ -1195,12 +1314,16 @@ L 3.5 0
     <g id="ytick_10">
      <g id="line2d_18">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="283.57" y="137.056008" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="277.855" y="137.056008" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_24">
       <!-- 20 -->
-      <g transform="translate(290.57 141.615071) scale(0.12 -0.12)">
+      <g transform="translate(284.855 141.615071) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0)"/>
       </g>
@@ -1209,12 +1332,16 @@ L 3.5 0
     <g id="ytick_11">
      <g id="line2d_19">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="283.57" y="86.146237" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="277.855" y="86.146237" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_25">
       <!-- 40 -->
-      <g transform="translate(290.57 90.705299) scale(0.12 -0.12)">
+      <g transform="translate(284.855 90.705299) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-34"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0)"/>
       </g>
@@ -1223,12 +1350,16 @@ L 3.5 0
     <g id="ytick_12">
      <g id="line2d_20">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="283.57" y="35.236466" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="277.855" y="35.236466" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_26">
       <!-- 60 -->
-      <g transform="translate(290.57 39.795528) scale(0.12 -0.12)">
+      <g transform="translate(284.855 39.795528) scale(0.12 -0.12)">
        <use xlink:href="#DejaVuSans-36"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0)"/>
       </g>
@@ -1236,7 +1367,7 @@ L 3.5 0
     </g>
     <g id="text_27">
      <!-- # citations -->
-     <g style="fill: #ff0000" transform="translate(318.958125 140.331015) rotate(-90) scale(0.12 -0.12)">
+     <g style="fill: #ff0000" transform="translate(313.243125 140.331015) rotate(-90) scale(0.12 -0.12)">
       <use xlink:href="#DejaVuSans-23"/>
       <use xlink:href="#DejaVuSans-20" transform="translate(83.789062 0)"/>
       <use xlink:href="#DejaVuSans-63" transform="translate(115.576172 0)"/>
@@ -1252,6 +1383,7 @@ L 3.5 0
     </g>
    </g>
    <g id="line2d_21">
+<<<<<<< Updated upstream
     <path d="M 53.371818 187.965779
 L 64.333636 182.874802
 " clip-path="url(#p01e1d5e988)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
@@ -1290,6 +1422,46 @@ L 228.760909 126.874054
     <path d="M 228.760909 126.874054
 L 272.608182 126.874054
 " clip-path="url(#p01e1d5e988)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+=======
+    <path d="M 53.112045 187.965779
+L 63.814091 182.874802
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 63.814091 182.874802
+L 106.622273 182.874802
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 106.622273 182.874802
+L 117.324318 114.146611
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 117.324318 114.146611
+L 160.1325 114.146611
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 160.1325 114.146611
+L 170.834545 35.236466
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 170.834545 35.236466
+L 213.642727 35.236466
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 213.642727 35.236466
+L 224.344773 126.874054
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 224.344773 126.874054
+L 267.152955 126.874054
+" clip-path="url(#p0b1a625b72)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_20">
     <path d="M 42.41 187.965779
@@ -1297,18 +1469,18 @@ L 42.41 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_21">
-    <path d="M 283.57 187.965779
-L 283.57 27.6
+    <path d="M 277.855 187.965779
+L 277.855 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_22">
     <path d="M 42.41 187.965779
-L 283.57 187.965779
+L 277.855 187.965779
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_23">
     <path d="M 42.41 27.6
-L 283.57 27.6
+L 277.855 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
@@ -1317,7 +1489,11 @@ L 283.57 27.6
     <g id="ytick_13">
      <g id="line2d_29">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="611.89" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="611.89" y="187.965779" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_28">
@@ -1330,7 +1506,11 @@ L 283.57 27.6
     <g id="ytick_14">
      <g id="line2d_30">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="611.89" y="154.832354" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="611.89" y="154.832354" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_29">
@@ -1344,7 +1524,11 @@ L 283.57 27.6
     <g id="ytick_15">
      <g id="line2d_31">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="611.89" y="121.698928" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="611.89" y="121.698928" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_30">
@@ -1358,13 +1542,18 @@ L 283.57 27.6
     <g id="ytick_16">
      <g id="line2d_32">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="611.89" y="88.565503" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="611.89" y="88.565503" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_31">
       <!-- 75 -->
       <g transform="translate(618.89 93.124565) scale(0.12 -0.12)">
        <defs>
+<<<<<<< Updated upstream
         <path id="DejaVuSans-37" d="M 525 4666
 L 3525 4666
 L 3525 4397
@@ -1373,6 +1562,16 @@ L 1172 0
 L 2766 4134
 L 525 4134
 L 525 4666
+=======
+        <path id="DejaVuSans-37" d="M 525 4666
+L 3525 4666
+L 3525 4397
+L 1831 0
+L 1172 0
+L 2766 4134
+L 525 4134
+L 525 4666
+>>>>>>> Stashed changes
 z
 " transform="scale(0.015625)"/>
        </defs>
@@ -1384,7 +1583,11 @@ z
     <g id="ytick_17">
      <g id="line2d_33">
       <g>
+<<<<<<< Updated upstream
        <use xlink:href="#m670f04a205" x="611.89" y="55.432077" style="stroke: #000000; stroke-width: 0.8"/>
+=======
+       <use xlink:href="#m25be7b770b" x="611.89" y="55.432077" style="stroke: #000000; stroke-width: 0.8"/>
+>>>>>>> Stashed changes
       </g>
      </g>
      <g id="text_32">
@@ -1414,6 +1617,7 @@ z
     </g>
    </g>
    <g id="line2d_34">
+<<<<<<< Updated upstream
     <path d="M 381.691818 187.965779
 L 392.653636 185.315105
 " clip-path="url(#p5ecc905627)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
@@ -1452,10 +1656,50 @@ L 557.080909 35.552022
     <path d="M 557.080909 35.552022
 L 600.928182 35.552022
 " clip-path="url(#p5ecc905627)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+=======
+    <path d="M 387.147045 187.965779
+L 397.849091 185.315105
+" clip-path="url(#p3b18225872)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 397.849091 185.315105
+L 440.657273 185.315105
+" clip-path="url(#p3b18225872)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 440.657273 185.315105
+L 451.359318 146.880332
+" clip-path="url(#p3b18225872)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 451.359318 146.880332
+L 494.1675 146.880332
+" clip-path="url(#p3b18225872)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 494.1675 146.880332
+L 504.869545 67.360111
+" clip-path="url(#p3b18225872)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 504.869545 67.360111
+L 547.677727 67.360111
+" clip-path="url(#p3b18225872)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 547.677727 67.360111
+L 558.379773 35.552022
+" clip-path="url(#p3b18225872)" style="fill: none; stroke-dasharray: 11.1,4.8; stroke-dashoffset: 0; stroke: #ff0000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 558.379773 35.552022
+L 601.187955 35.552022
+" clip-path="url(#p3b18225872)" style="fill: none; stroke: #ff0000; stroke-width: 3; stroke-linecap: square"/>
+>>>>>>> Stashed changes
    </g>
    <g id="patch_24">
-    <path d="M 370.73 187.965779
-L 370.73 27.6
+    <path d="M 376.445 187.965779
+L 376.445 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_25">
@@ -1464,23 +1708,31 @@ L 611.89 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_26">
-    <path d="M 370.73 187.965779
+    <path d="M 376.445 187.965779
 L 611.89 187.965779
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_27">
-    <path d="M 370.73 27.6
+    <path d="M 376.445 27.6
 L 611.89 27.6
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
  </g>
  <defs>
+<<<<<<< Updated upstream
   <clipPath id="p01e1d5e988">
    <rect x="42.41" y="27.6" width="241.16" height="160.365779"/>
   </clipPath>
   <clipPath id="p5ecc905627">
    <rect x="370.73" y="27.6" width="241.16" height="160.365779"/>
+=======
+  <clipPath id="p0b1a625b72">
+   <rect x="42.41" y="27.6" width="235.445" height="160.365779"/>
+  </clipPath>
+  <clipPath id="p3b18225872">
+   <rect x="376.445" y="27.6" width="235.445" height="160.365779"/>
+>>>>>>> Stashed changes
   </clipPath>
  </defs>
 </svg>
