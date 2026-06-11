@@ -14,6 +14,11 @@ permalink: /publications
 
 ### Submitted
 <ul>
+  <li>Emanuele Rossi, Erik Rosendahl Kjellgren, Artur F. Izmaylov, Stephan P.A. Sauer, Karl Michael Ziems, Sonia Coriani:
+<a href="https://arxiv.org/abs/2606.04786" rel="nofollow noopener" target="_blank">Resource-efficient energy-based operator selection in fermionic ADAPT-VQE via exact Hamiltonian transformation</a>,
+   	arXiv:2606.04786 </li>
+</ul>
+<ul>
   <li>Ernst Dennis Lægteskov Binau Larsson, Erik Kjellgren, Peter Reinholdt, Jacob Kongsted:
 <a href="https://arxiv.org/abs/2602.20270" rel="nofollow noopener" target="_blank">State-Averaged Quantum Algorithms for Multiconfigurational Surface Chemistry: A Benchmark on Rh@TiO2(110)</a>,
    	arXiv:2604.2604 </li>
