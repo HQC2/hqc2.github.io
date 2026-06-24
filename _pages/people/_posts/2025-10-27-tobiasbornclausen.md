@@ -1,9 +1,9 @@
 ---
 layout: member
-category: master
+category: alumni
 title: Tobias Born Clausen
 image: tobiasbornclausen.jpg
-role: Master Student
+role: Former Master Student
 permalink: 'people/tobiasbornclausen'
 social:
     email: 
