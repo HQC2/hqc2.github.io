@@ -14,6 +14,11 @@ permalink: /publications
 
 ### Submitted
 <ul>
+  <li>Erik Rosendahl Kjellgren, Karl Michael Ziems, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Jacob Kongsted:
+<a href="https://arxiv.org/abs/2606.15489" rel="nofollow noopener" target="_blank">Orbital-optimized spin-adapted multistate contracted VQE for excited states and properties on quantum hardware</a>,
+   	arXiv:2606.15489 </li>
+</ul>
+<ul>
   <li>Emanuele Rossi, Erik Rosendahl Kjellgren, Artur F. Izmaylov, Stephan P.A. Sauer, Karl Michael Ziems, Sonia Coriani:
 <a href="https://arxiv.org/abs/2606.04786" rel="nofollow noopener" target="_blank">Resource-efficient energy-based operator selection in fermionic ADAPT-VQE via exact Hamiltonian transformation</a>,
    	arXiv:2606.04786 </li>
