@@ -147,7 +147,7 @@ permalink: /people/
 {% endfor %}
 
 <h4><a id="current"></a>Former team members</h4>
-{% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' | reverse %}
 {% for member in members %}
 <div class="card people-member-card">
     <div class="row mt-3">
