@@ -6,8 +6,7 @@ image: peterreinholdt.jpg
 role: Assistant Professor
 permalink: 'people/peterreinholdt'
 social:
-    email: kjellgren@sdu.dk
-    twitter: https://twitter.com/PeterReinholdt
+    email: reinholdt@sdu.dk
     linkedin: https://www.linkedin.com/in/peter-reinholdt-56148573/?originalSubdomain=dk
     google-scholar: https://scholar.google.dk/citations?user=ZLj6qKgAAAAJ&hl=en
     gitlab: https://gitlab.com/reinholdt

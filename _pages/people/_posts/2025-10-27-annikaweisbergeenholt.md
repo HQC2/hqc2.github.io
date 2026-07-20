@@ -7,5 +7,5 @@ role: PhD
 permalink: 'people/annikaweisbergeenholt'
 social:
     email: awe@chem.ku.dk
-    linkedin:
+    linkedin: https://www.linkedin.com/in/annika-weisberg-eenholt-72089422b/
 ---
