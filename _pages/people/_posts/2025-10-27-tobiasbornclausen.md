@@ -6,6 +6,6 @@ image: tobiasbornclausen.jpg
 role: Former Master Student
 permalink: 'people/tobiasbornclausen'
 social:
-    email: 
-    linkedin: 
+    email:
+    linkedin:
 ---

@@ -7,5 +7,5 @@ role: PhD
 permalink: 'people/annikaweisbergeenholt'
 social:
     email: awe@chem.ku.dk
-    linkedin: 
+    linkedin:
 ---

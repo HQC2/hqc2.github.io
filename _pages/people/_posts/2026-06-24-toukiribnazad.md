@@ -6,6 +6,6 @@ image: toukiribnazad.jpg
 role: Master Student
 permalink: 'people/toukiribnazad'
 social:
-    email: 
-    linkedin: 
+    email:
+    linkedin:
 ---

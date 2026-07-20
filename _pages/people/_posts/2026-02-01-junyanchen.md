@@ -2,10 +2,10 @@
 layout: member
 category: alumni
 title: Junyan Chen
-image: junyanchen.jpg
+image: placeholder_person.jpg
 role: Former Master Student
 permalink: 'people/junyanchen'
 social:
-    email: 
+    email:
     linkedin:
 ---
