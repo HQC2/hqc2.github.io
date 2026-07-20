@@ -2,10 +2,10 @@
 layout: member
 category: postdoc
 title: Frederik Kamper Jørgensen
-image: frederikkamperjørgensen.jpg
+image: frederikkamperjørgensen.jpeg
 role: Postdoctoral Researcher
 permalink: 'people/frederikkamperjørgensen'
 social:
-    email: 
+    email: fkaj@sdu.dk
     linkedin:
 ---
