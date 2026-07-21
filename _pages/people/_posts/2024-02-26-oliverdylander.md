@@ -6,5 +6,6 @@ image: OliverD-small.jpg
 role: Former Bachelor Student
 permalink: 'people/oliverdylander'
 social:
-    email: qlh450@alumni.ku.dk
+    linkedin: https://www.linkedin.com/in/oliver-dylander-a54653242/
+    github: https://github.com/OliverDylander
 ---

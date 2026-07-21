@@ -6,6 +6,6 @@ image: tobiasbornclausen.jpg
 role: Former Master Student
 permalink: 'people/tobiasbornclausen'
 social:
-    email:
-    linkedin:
+    linkedin: https://www.linkedin.com/in/tobias-born-clausen-b74b26237/
+    github: https://github.com/Born-ship-it
 ---

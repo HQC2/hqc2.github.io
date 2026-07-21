@@ -6,6 +6,5 @@ image: adriablanchgarrido.jpg
 role: Former Master Student
 permalink: 'people/adriablanchgarrido'
 social:
-    email: qjn980@alumni.ku.dk
-    linkedin:
+    github: https://github.com/Adriablanch
 ---
