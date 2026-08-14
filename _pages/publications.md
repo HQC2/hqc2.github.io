@@ -34,17 +34,17 @@ permalink: /publications
    	arXiv:2602.20270 </li>
 </ul>
 <ul>
-  <li>Oscar G. L. Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems, Jacob Kongsted:
-<a href="https://arxiv.org/abs/2511.21236" rel="nofollow noopener" target="_blank">Cost-effective scalable quantum error mitigation for tiled Ansätze</a>,
-  arXiv:2511.21236 </li>
-</ul>
-<ul>
   <li>Zhongqi Zhao, Erik Rosendahl Kjellgren, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer, Karl Michael Ziems:
 <a href="https://arxiv.org/abs/2511.03556" rel="nofollow noopener" target="_blank">Quantum error mitigation using energy sampling and extrapolation enhanced Clifford data regression</a>,
   arXiv:2511.03556 </li>
 </ul>
 
 ### Publications
+<ul>
+  <li>Oscar G. L. Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems, Jacob Kongsted:
+<a href="https://doi.org/10.1021/acs.jctc.6c00603" rel="nofollow noopener" target="_blank">Cost-effective scalable quantum error mitigation for tiled Ansätze</a>,
+  J. Chem. Theory Comput. (2026) </li>
+</ul>
 <ul>
   <li>Paarth Jain, Artur F. Izmaylov, Erik R. Kjellgren:
 <a href="https://pubs.aip.org/aip/jcp/article-abstract/164/19/194107/3391413/Exact-factorization-of-unitary-transformations?redirectedFrom=fulltext" rel="nofollow noopener" target="_blank">Exact Factorization of Unitary Transformations with Spin-Adapted Generators</a>,
