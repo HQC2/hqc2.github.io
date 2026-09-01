@@ -24,11 +24,6 @@ permalink: /publications
    	arXiv:2606.04786 </li>
 </ul>
 <ul>
-  <li>Ernst Dennis Lægteskov Binau Larsson, Erik Kjellgren, Peter Reinholdt, Jacob Kongsted:
-<a href="https://arxiv.org/abs/2602.20270" rel="nofollow noopener" target="_blank">State-Averaged Quantum Algorithms for Multiconfigurational Surface Chemistry: A Benchmark on Rh@TiO2(110)</a>,
-   	arXiv:2604.2604 </li>
-</ul>
-<ul>
   <li>Ignacio Loaiza, Alexander Kunitsa, Stepan Fomichev, Danial Motlagh, Diksha Dhawan, Soran Jahangiri, Juliane Holst Fuglsbjerg, Artur F. Izmaylov, Nathan Wiebe, Yaser Abu-Lebdeh, Juan Miguel Arrazola, Alain Delgado:
 <a href="https://arxiv.org/abs/2602.20270" rel="nofollow noopener" target="_blank">Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials</a>,
    	arXiv:2602.20270 </li>
@@ -40,6 +35,11 @@ permalink: /publications
 </ul>
 
 ### Publications
+<ul>
+  <li>Ernst Dennis Lægteskov Binau Larsson, Erik Kjellgren, Peter Reinholdt, Jacob Kongsted:
+<a href="https://doi.org/10.1063/5.0339816" rel="nofollow noopener" target="_blank">State-Averaged Quantum Algorithms for Multiconfigurational Surface Chemistry: A Benchmark on Rh@TiO2(110)</a>,
+   	J. Chem. Phys. <b>165</b>, 084103 (2026) </li>
+</ul>
 <ul>
   <li>Oscar G. L. Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems, Jacob Kongsted:
 <a href="https://doi.org/10.1021/acs.jctc.6c00603" rel="nofollow noopener" target="_blank">Cost-effective scalable quantum error mitigation for tiled Ansätze</a>,
