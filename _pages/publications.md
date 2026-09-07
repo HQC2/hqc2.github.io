@@ -14,6 +14,11 @@ permalink: /publications
 
 ### Submitted
 <ul>
+  <li>2)	Renato Olarte Hernandez, Karl Michael Ziems, Erik R. Kjellgren, Jacob Kongsted, Sonia Coriani, Stephan P. A. Sauer:
+<a href="https://arxiv.org/abs/2608.08758" rel="nofollow noopener" target="_blank">Analytical Nuclear Gradients and Hessians on Quantum Hardware via Orbital-Optimized VQE with Error Mitigation</a>,
+   	 arXiv:2608.08758  </li>
+</ul>
+<ul>
   <li>Erik Rosendahl Kjellgren, Karl Michael Ziems, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Jacob Kongsted:
 <a href="https://arxiv.org/abs/2606.15489" rel="nofollow noopener" target="_blank">Orbital-optimized spin-adapted multistate contracted VQE for excited states and properties on quantum hardware</a>,
    	arXiv:2606.15489 </li>
@@ -43,7 +48,7 @@ permalink: /publications
 <ul>
   <li>Oscar G. L. Rasmussen, Erik Kjellgren, Peter Reinholdt, Stephan P. A. Sauer, Sonia Coriani, Karl Michael Ziems, Jacob Kongsted:
 <a href="https://doi.org/10.1021/acs.jctc.6c00603" rel="nofollow noopener" target="_blank">Cost-effective scalable quantum error mitigation for tiled Ansätze</a>,
-  J. Chem. Theory Comput. (2026) </li>
+  J. Chem. Theory Comput. <b>22</b>, 8188-8200 (2026) </li>
 </ul>
 <ul>
   <li>Paarth Jain, Artur F. Izmaylov, Erik R. Kjellgren:
