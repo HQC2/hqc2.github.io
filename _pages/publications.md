@@ -14,7 +14,7 @@ permalink: /publications
 
 ### Submitted
 <ul>
-  <li>2)	Renato Olarte Hernandez, Karl Michael Ziems, Erik R. Kjellgren, Jacob Kongsted, Sonia Coriani, Stephan P. A. Sauer:
+  <li>Renato Olarte Hernandez, Karl Michael Ziems, Erik R. Kjellgren, Jacob Kongsted, Sonia Coriani, Stephan P. A. Sauer:
 <a href="https://arxiv.org/abs/2608.08758" rel="nofollow noopener" target="_blank">Analytical Nuclear Gradients and Hessians on Quantum Hardware via Orbital-Optimized VQE with Error Mitigation</a>,
    	 arXiv:2608.08758  </li>
 </ul>
