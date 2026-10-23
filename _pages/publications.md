@@ -14,6 +14,11 @@ permalink: /publications
 
 ### Submitted
 <ul>
+    <li>Juliane H. Fuglsbjerg, Sonia Coriani, Jacob Kongsted, Stephan P. A. Sauer:
+    <a href="https://arxiv.org/abs/2610.11797" rel="nofollow noopener" target="_blank">Unitary Coupled Cluster Nuclear Shielding Constants in a Quantum Linear Response Framework</a>,
+        arXiv:2610.11797 </li>
+</ul>
+<ul>
     <li>Renato Olarte Hernandez, Emanuele Rossi, Sonia Coriani, Karl Michael Ziems, Erik Kjellgren, Jacob Kongsted, Tali Shnaider, Stephan P. A. Sauer:
     <a href="https://arxiv.org/abs/2609.07284" rel="nofollow noopener" target="_blank">Implementing QESEM's High-Accuracy Error Mitigation on a Quantum Computer: a Water Potential Energy Surface Study</a>,
         arXiv:2609.07284 </li>
